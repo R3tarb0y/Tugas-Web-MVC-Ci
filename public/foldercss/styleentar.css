@@ -1,0 +1,48 @@
+
+
+
+nav {
+
+    background-color: pink;
+
+ }
+
+a {
+    color: white;
+}
+
+
+
+.navbar-brand {
+    
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    text-align: justify;
+}
+
+.container {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 350px;
+    
+    
+}
+.gambarhome {
+
+    width: 700px;
+    height: 400px;
+}
+
+
+
+p {
+    text-align: justify;
+    font-family : Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+.gambardevice {
+    width: 200px;
+    height: 200px;
+}
